@@ -25,7 +25,11 @@ https://qiita.com/saba383810/items/c55043bdbc47dd4cb6f4
 
 [4] 「mocopiをUnityで使ってみた（Windows10)」
 
-https://tatsuya1970.com/?p=17310　<br><br><br>
+https://tatsuya1970.com/?p=17310
+
+[5] 「UnityとArduinoをシリアル通信」
+
+https://qiita.com/yjiro0403/items/54e9518b5624c0030531 <br><br><br>
 [内容]
 
 ・没入型音楽ゲーム作成に関するスライド資料.pdf ：12枚あります。
@@ -46,9 +50,11 @@ https://tatsuya1970.com/?p=17310　<br><br><br>
 ・Resourcesorange.cs：ノーツをインスタンスで生成（times.csvをもとに上手く調整）<br>
 ・Resourcespink.cs  ：ノーツをインスタンスで生成（times.csvをもとに上手く調整）<br>
 ・Scoretext.cs      ：スコアを管理して、その数値をTextMeshProで画面に表示*<br>
-・SerialHandler.cs  ：Arduinoからのセンサ値をシリアル通信でUnityに伝達<br>
-・SerialReceiver.cs ：SerialHandlerから受け取ったシリアルデータを整数に変換して格納<br>
+・SerialHandler.cs  ：Arduinoからのセンサ値をシリアル通信でUnityに伝達**<br>
+・SerialReceiver.cs ：SerialHandlerから受け取ったシリアルデータを整数に変換して格納**<br>
 ・TimeOutput.cs     ：F/G/H/Jキーを押した時点での経過時間と計算結果（設置すべきノーツのz座標）をtimes.csvに記録<br>
 ・Title.cs          ：Title画面でタッチセンサからの入力を検知したら効果音を鳴らし、2秒後にゲームシーンへ遷移<br>
 
 \* 主に[1]を参考に音楽ゲームの基盤となるスクリプトを制作したため、構造が似通っています。
+
+\** 主に[5]を参考にシリアル通信の基盤となるスクリプトを制作したため、構造が似通っています。
