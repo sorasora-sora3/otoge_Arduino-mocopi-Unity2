@@ -1,0 +1,508 @@
+Key,ElapsedTime [s]
+F,2.63562
+G,3.113924
+H,4.01449
+J,4.606231
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+F,2.630804,31.77394
+G,3.239901,37.86375
+H,4.070776,46.17093
+J,4.64162,51.87828
+F,12.95291,134.9754
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+green,58.67211,592.0806
+blue,59.42,599.558
+pink,60.16311,606.9877
+orange,60.85271,613.8824
+orange,61.61274,621.4813
+green,62.27122,628.0648
+pink,62.3768,629.1204
+blue,62.63799,631.7318
+orange,62.72358,632.5876
+green,62.92989,634.6503
+green,63.39185,639.269
+green,63.76892,643.039
+blue,64.47687,650.1171
+green,65.19566,657.3037
+orange,65.9036,664.3817
+pink,66.60646,671.409
+orange,67.34051,678.748
+blue,67.66674,682.0098
+green,68.02776,685.6192
+pink,68.38747,689.2157
+pink,68.77271,693.0674
+green,70.19804,707.3179
+blue,70.93583,714.6945
+pink,71.65096,721.8444
+orange,72.332,728.6535
+orange,73.04612,735.7933
+green,73.56279,740.959
+pink,73.71379,742.4688
+blue,74.00017,745.332
+orange,74.14571,746.7871
+green,74.3569,748.8987
+green,74.88541,754.1828
+green,75.22111,757.5391
+pink,75.97972,765.1238
+green,76.70302,772.3553
+blue,77.67959,782.1192
+orange,77.9584,784.9068
+orange,80.29394,808.2578
+pink,86.87627,874.0685
+green,87.19235,877.2288
+blue,87.46382,879.9429
+orange,89.06598,895.9615
+orange,89.55898,900.8905
+green,91.7477,922.7736
+green,92.11429,926.4388
+green,92.45125,929.8077
+orange,93.24537,937.7474
+pink,94.85179,953.8086
+pink,95.29944,958.2842
+blue,97.50317,980.3174
+blue,97.86514,983.9363
+blue,98.21111,987.3954
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+green,99.25063,997.7886
+green,99.61867,1001.468
+blue,101.0916,1016.194
+blue,101.458,1019.858
+green,104.0291,1045.564
+green,104.3649,1048.922
+blue,105.4004,1059.274
+blue,105.6358,1061.628
+green,106.5304,1070.572
+green,107.2076,1077.344
+pink,108.423,1089.495
+orange,109.7859,1103.122
+orange,110.1066,1106.328
+orange,110.442,1109.681
+blue,110.7839,1113.1
+green,111.1305,1116.565
+pink,111.5029,1120.288
+pink,111.8598,1123.857
+green,112.2208,1127.466
+blue,112.5674,1130.931
+green,112.9398,1134.654
+orange,113.3033,1138.289
+blue,113.6286,1141.541
+green,113.9954,1145.208
+pink,114.3776,1149.03
+pink,114.7434,1152.687
+pink,115.0814,1156.066
+green,116.1342,1166.593
+blue,116.9034,1174.283
+pink,117.6112,1181.36
+orange,118.3507,1188.753
+orange,119.079,1196.034
+green,119.6008,1201.252
+pink,119.7517,1202.761
+blue,119.9937,1205.18
+orange,120.1436,1206.679
+green,120.3854,1209.097
+green,120.8772,1214.013
+green,121.2413,1217.653
+blue,121.973,1224.969
+green,122.6912,1232.149
+orange,123.3735,1238.971
+pink,124.0952,1246.187
+orange,124.8028,1253.262
+blue,125.1238,1256.471
+green,125.4705,1259.937
+pink,125.8729,1263.961
+pink,126.2744,1267.974
+green,127.6575,1281.803
+blue,128.3894,1289.121
+pink,129.1022,1296.247
+orange,129.8107,1303.331
+orange,130.5797,1311.02
+green,131.1313,1316.535
+pink,131.2836,1318.057
+blue,131.5084,1320.305
+orange,131.6443,1321.664
+green,131.891,1324.13
+green,132.3685,1328.904
+green,132.7351,1332.569
+pink,133.443,1339.648
+green,134.1967,1347.183
+green,135.1204,1356.418
+blue,135.4634,1359.848
+orange,137.767,1382.879
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+pink,139.4384,1399.59
+green,139.5515,1400.721
+orange,139.8849,1404.054
+pink,140.2812,1408.017
+pink,140.7978,1413.182
+green,140.9806,1415.009
+orange,141.3405,1418.607
+pink,141.7333,1422.535
+green,142.0667,1425.868
+green,142.3111,1428.312
+blue,142.655,1431.749
+blue,143.0183,1435.382
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+pink,143.7908,1443.106
+green,143.9131,1444.328
+blue,144.0413,1445.61
+orange,144.2038,1447.235
+blue,144.5608,1450.804
+blue,145.666,1461.854
+pink,145.7667,1462.861
+orange,147.0626,1475.817
+green,147.3995,1479.186
+green,149.0116,1495.304
+green,149.4336,1499.523
+green,149.781,1502.997
+blue,149.9308,1504.494
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+orange,33.20096,337.4174
+orange,150.8408,1513.592
+green,151.329,1518.474
+orange,151.9811,1524.993
+orange,152.3686,1528.867
+orange,152.6291,1531.472
+green,154.9593,1554.77
+green,155.2914,1558.09
+green,155.9488,1564.662
+blue,156.6772,1571.945
+blue,157.5134,1580.305
+green,158.1534,1586.704
+green,158.5656,1590.826
+green,159.8308,1603.475
+green,160.5797,1610.963
+blue,161.238,1617.545
+pink,161.6721,1621.885
+orange,161.7607,1622.77
+orange,162.1575,1626.738
+blue,162.5043,1630.205
+green,162.8407,1633.568
+pink,163.214,1637.301
+pink,163.5599,1640.759
+green,163.9274,1644.433
+blue,164.2878,1648.036
+green,164.6472,1651.63
+orange,165.0049,1655.206
+blue,165.3504,1658.661
+green,165.6697,1661.853
+pink,166.0367,1665.522
+pink,166.4243,1669.398
+pink,166.7753,1672.907
+green,167.8406,1683.558
+blue,168.5982,1691.133
+pink,169.3068,1698.217
+orange,170.0203,1705.351
+orange,170.7339,1712.486
+green,171.2208,1717.354
+pink,171.4025,1719.171
+blue,171.7082,1722.227
+orange,171.854,1723.684
+green,172.0826,1725.97
+green,172.5634,1730.777
+green,172.9144,1734.286
+blue,173.6476,1741.617
+green,174.3515,1748.655
+orange,175.0539,1755.678
+pink,175.7586,1762.723
+orange,176.5514,1770.65
+blue,176.884,1773.975
+green,177.2139,1777.273
+pink,177.5762,1780.896
+pink,177.933,1784.463
+green,179.3592,1798.722
+blue,180.0773,1805.902
+pink,180.8154,1813.281
+orange,181.5745,1820.871
+orange,182.2365,1827.489
+green,182.7849,1832.973
+pink,182.9401,1834.525
+blue,183.2016,1837.139
+orange,183.3337,1838.46
+green,183.5638,1840.76
+green,184.0601,1845.722
+green,184.4169,1849.289
+pink,185.1808,1856.927
+green,185.8746,1863.864
+green,186.8593,1873.709
+blue,187.1519,1876.635
+orange,189.4948,1900.058
+pink,193.8485,1943.588
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+pink,3.694744,42.41132
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
+Key,ElapsedTime [s],CalculationResult
+Initial,0,5.4709
